@@ -1,7 +1,0 @@
-organization=tatianamih
-projectKey=tatianamih_lecture4_methods_objects-and_classes-dog
-serverUrl=https://sonarcloud.io
-serverVersion=8.0.0.11367
-dashboardUrl=https://sonarcloud.io/dashboard?id=tatianamih_lecture4_methods_objects-and_classes-dog
-ceTaskId=AXRBfRDyDRvCjDMsHBjH
-ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AXRBfRDyDRvCjDMsHBjH
