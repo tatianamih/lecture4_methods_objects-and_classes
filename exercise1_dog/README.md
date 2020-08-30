@@ -1,0 +1,1 @@
+[![Quality gate](https://sonarcloud.io/api/project_badges/quality_gate?project=tatianamih_lecture4_methods_objects-and_classes-dog)](https://sonarcloud.io/dashboard?id=tatianamih_lecture4_methods_objects-and_classes-dog)
