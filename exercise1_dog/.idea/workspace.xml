@@ -5,183 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="06be1341-c6c8-4ec0-bea6-7db7a263ea4b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/by/jrr/jis4/bean/Endocoder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/by/jrr/jis4/service/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/by/jrr/jis4/service/EndocoderService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/by/jrr/jis4/bean/EndocoderTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/by/jrr/jis4/service/EndocoderServiceTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../exercise2_human/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../exercise2_human/src/main/java/by/jrr/jis4/bean/Human.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../exercise2_human/src/main/java/by/jrr/jis4/service/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../exercise2_human/src/main/java/by/jrr/jis4/service/HumanService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../exercise2_human/src/main/resources/resources/.initial" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../exercise2_human/src/main/resources/resources/log4j.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../exercise2_human/src/test/java/by/jrr/jis4/bean/HumanTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../exercise2_human/src/test/java/by/jrr/jis4/service/HumanServiceTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../level1_circle/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../level1_circle/src/main/java/by/jrr/jis4/bean/Circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../level1_circle/src/main/java/by/jrr/jis4/service/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../level1_circle/src/main/java/by/jrr/jis4/service/CircleService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../level1_circle/src/test/java/by/jrr/jis4/bean/CircleTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../level1_circle/src/test/java/by/jrr/jis4/service/CircleServiceTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../level1_circle/target/jacoco.exec" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../level1_circle/target/maven-archiver/pom.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../level1_circle/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../level1_circle/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../level1_circle/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../level1_circle/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../level1_circle/target/site/jacoco/by.jrr.jis4.bean/Circle.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../level1_circle/target/site/jacoco/by.jrr.jis4.bean/Circle.java.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../level1_circle/target/site/jacoco/by.jrr.jis4.bean/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../level1_circle/target/site/jacoco/by.jrr.jis4.bean/index.source.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../level1_circle/target/site/jacoco/by.jrr.jis4.service/App.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../level1_circle/target/site/jacoco/by.jrr.jis4.service/App.java.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../level1_circle/target/site/jacoco/by.jrr.jis4.service/CircleService.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../level1_circle/target/site/jacoco/by.jrr.jis4.service/CircleService.java.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../level1_circle/target/site/jacoco/by.jrr.jis4.service/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../level1_circle/target/site/jacoco/by.jrr.jis4.service/index.source.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../level1_circle/target/site/jacoco/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../level1_circle/target/site/jacoco/jacoco-resources/branchfc.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../level1_circle/target/site/jacoco/jacoco-resources/branchnc.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../level1_circle/target/site/jacoco/jacoco-resources/branchpc.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../level1_circle/target/site/jacoco/jacoco-resources/bundle.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../level1_circle/target/site/jacoco/jacoco-resources/class.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../level1_circle/target/site/jacoco/jacoco-resources/down.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../level1_circle/target/site/jacoco/jacoco-resources/greenbar.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../level1_circle/target/site/jacoco/jacoco-resources/group.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../level1_circle/target/site/jacoco/jacoco-resources/method.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../level1_circle/target/site/jacoco/jacoco-resources/package.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../level1_circle/target/site/jacoco/jacoco-resources/prettify.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../level1_circle/target/site/jacoco/jacoco-resources/prettify.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../level1_circle/target/site/jacoco/jacoco-resources/redbar.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../level1_circle/target/site/jacoco/jacoco-resources/report.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../level1_circle/target/site/jacoco/jacoco-resources/report.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../level1_circle/target/site/jacoco/jacoco-resources/session.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../level1_circle/target/site/jacoco/jacoco-resources/sort.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../level1_circle/target/site/jacoco/jacoco-resources/sort.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../level1_circle/target/site/jacoco/jacoco-resources/source.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../level1_circle/target/site/jacoco/jacoco-resources/up.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../level1_circle/target/site/jacoco/jacoco-sessions.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../level1_circle/target/site/jacoco/jacoco.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../level1_circle/target/site/jacoco/jacoco.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../level1_circle/target/site/jacoco/jis4.bean/Circle.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../level1_circle/target/site/jacoco/jis4.bean/Circle.java.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../level1_circle/target/site/jacoco/jis4.bean/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../level1_circle/target/site/jacoco/jis4.bean/index.source.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../level1_circle/target/site/jacoco/jis4.service/App.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../level1_circle/target/site/jacoco/jis4.service/App.java.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../level1_circle/target/site/jacoco/jis4.service/CircleService.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../level1_circle/target/site/jacoco/jis4.service/CircleService.java.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../level1_circle/target/site/jacoco/jis4.service/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../level1_circle/target/site/jacoco/jis4.service/index.source.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../level1_circle/target/sonar/.sonar_lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../level1_circle/target/sonar/report-task.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../level1_circle/target/sonar/ucfg2/java/all.typedefs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../level1_circle/target/sonar/ucfg2/java/ucfg_0.proto" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../level1_circle/target/sonar/ucfg2/java/ucfg_1.proto" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../level1_circle/target/sonar/ucfg2/java/ucfg_2.proto" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../level1_circle/target/sonar/ucfg2/java/ucfg_3.proto" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../level1_circle/target/sonar/ucfg2/java/ucfg_4.proto" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../level1_circle/target/sonar/ucfg2/java/ucfg_5.proto" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../level1_circle/target/sonar/ucfg2/java/ucfg_6.proto" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../level1_circle/target/sonar/ucfg2/java/ucfg_7.proto" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../level1_circle/target/surefire-reports/TEST-by.jrr.jis4.bean.CircleTest.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../level1_circle/target/surefire-reports/TEST-by.jrr.jis4.service.CircleServiceTest.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../level1_circle/target/surefire-reports/TEST-jis4.bean.CircleTest.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../level1_circle/target/surefire-reports/TEST-jis4.service.CircleServiceTest.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../level1_circle/target/surefire-reports/by.jrr.jis4.bean.CircleTest.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../level1_circle/target/surefire-reports/by.jrr.jis4.service.CircleServiceTest.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../level1_circle/target/surefire-reports/jis4.bean.CircleTest.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../level1_circle/target/surefire-reports/jis4.service.CircleServiceTest.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../level2_endocoder/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../level2_endocoder/src/main/java/by/jrr/jis4/bean/Endocoder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../level2_endocoder/src/main/java/by/jrr/jis4/service/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../level2_endocoder/src/main/java/by/jrr/jis4/service/EndocoderService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../level2_endocoder/src/test/java/by/jrr/jis4/bean/EndocoderTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../level2_endocoder/src/test/java/by/jrr/jis4/service/EndocoderServiceTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../level2_endocoder/target/jacoco.exec" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../level2_endocoder/target/maven-archiver/pom.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../level2_endocoder/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../level2_endocoder/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../level2_endocoder/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../level2_endocoder/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../level2_endocoder/target/site/jacoco/by.jrr.jis4.bean/Endocoder.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../level2_endocoder/target/site/jacoco/by.jrr.jis4.bean/Endocoder.java.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../level2_endocoder/target/site/jacoco/by.jrr.jis4.bean/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../level2_endocoder/target/site/jacoco/by.jrr.jis4.bean/index.source.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../level2_endocoder/target/site/jacoco/by.jrr.jis4.service/App.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../level2_endocoder/target/site/jacoco/by.jrr.jis4.service/App.java.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../level2_endocoder/target/site/jacoco/by.jrr.jis4.service/EndocoderService.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../level2_endocoder/target/site/jacoco/by.jrr.jis4.service/EndocoderService.java.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../level2_endocoder/target/site/jacoco/by.jrr.jis4.service/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../level2_endocoder/target/site/jacoco/by.jrr.jis4.service/index.source.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../level2_endocoder/target/site/jacoco/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../level2_endocoder/target/site/jacoco/jacoco-resources/branchfc.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../level2_endocoder/target/site/jacoco/jacoco-resources/branchnc.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../level2_endocoder/target/site/jacoco/jacoco-resources/branchpc.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../level2_endocoder/target/site/jacoco/jacoco-resources/bundle.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../level2_endocoder/target/site/jacoco/jacoco-resources/class.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../level2_endocoder/target/site/jacoco/jacoco-resources/down.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../level2_endocoder/target/site/jacoco/jacoco-resources/greenbar.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../level2_endocoder/target/site/jacoco/jacoco-resources/group.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../level2_endocoder/target/site/jacoco/jacoco-resources/method.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../level2_endocoder/target/site/jacoco/jacoco-resources/package.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../level2_endocoder/target/site/jacoco/jacoco-resources/prettify.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../level2_endocoder/target/site/jacoco/jacoco-resources/prettify.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../level2_endocoder/target/site/jacoco/jacoco-resources/redbar.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../level2_endocoder/target/site/jacoco/jacoco-resources/report.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../level2_endocoder/target/site/jacoco/jacoco-resources/report.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../level2_endocoder/target/site/jacoco/jacoco-resources/session.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../level2_endocoder/target/site/jacoco/jacoco-resources/sort.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../level2_endocoder/target/site/jacoco/jacoco-resources/sort.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../level2_endocoder/target/site/jacoco/jacoco-resources/source.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../level2_endocoder/target/site/jacoco/jacoco-resources/up.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../level2_endocoder/target/site/jacoco/jacoco-sessions.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../level2_endocoder/target/site/jacoco/jacoco.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../level2_endocoder/target/site/jacoco/jacoco.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../level2_endocoder/target/site/jacoco/jis4.bean/Circle.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../level2_endocoder/target/site/jacoco/jis4.bean/Circle.java.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../level2_endocoder/target/site/jacoco/jis4.bean/Endocoder.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../level2_endocoder/target/site/jacoco/jis4.bean/Endocoder.java.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../level2_endocoder/target/site/jacoco/jis4.bean/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../level2_endocoder/target/site/jacoco/jis4.bean/index.source.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../level2_endocoder/target/site/jacoco/jis4.service/App.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../level2_endocoder/target/site/jacoco/jis4.service/App.java.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../level2_endocoder/target/site/jacoco/jis4.service/EndocoderService.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../level2_endocoder/target/site/jacoco/jis4.service/EndocoderService.java.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../level2_endocoder/target/site/jacoco/jis4.service/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../level2_endocoder/target/site/jacoco/jis4.service/index.source.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../level2_endocoder/target/sonar/.sonar_lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../level2_endocoder/target/sonar/report-task.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../level2_endocoder/target/sonar/ucfg2/java/all.typedefs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../level2_endocoder/target/sonar/ucfg2/java/ucfg_0.proto" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../level2_endocoder/target/sonar/ucfg2/java/ucfg_1.proto" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../level2_endocoder/target/sonar/ucfg2/java/ucfg_10.proto" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../level2_endocoder/target/sonar/ucfg2/java/ucfg_2.proto" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../level2_endocoder/target/sonar/ucfg2/java/ucfg_3.proto" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../level2_endocoder/target/sonar/ucfg2/java/ucfg_4.proto" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../level2_endocoder/target/sonar/ucfg2/java/ucfg_5.proto" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../level2_endocoder/target/sonar/ucfg2/java/ucfg_6.proto" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../level2_endocoder/target/sonar/ucfg2/java/ucfg_7.proto" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../level2_endocoder/target/sonar/ucfg2/java/ucfg_8.proto" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../level2_endocoder/target/sonar/ucfg2/java/ucfg_9.proto" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../level2_endocoder/target/surefire-reports/TEST-by.jrr.jis4.bean.EndocoderTest.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../level2_endocoder/target/surefire-reports/TEST-by.jrr.jis4.service.EndocoderServiceTest.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../level2_endocoder/target/surefire-reports/TEST-jis4.bean.EndocoderTest.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../level2_endocoder/target/surefire-reports/TEST-jis4.service.EndocoderServiceTest.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../level2_endocoder/target/surefire-reports/by.jrr.jis4.bean.EndocoderTest.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../level2_endocoder/target/surefire-reports/by.jrr.jis4.service.EndocoderServiceTest.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../level2_endocoder/target/surefire-reports/jis4.bean.EndocoderTest.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../level2_endocoder/target/surefire-reports/jis4.service.EndocoderServiceTest.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../level3_product/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../level3_product/src/main/java/by/jrr/jis4/bean/Product.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../level3_product/src/main/java/by/jrr/jis4/service/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../level3_product/src/main/java/by/jrr/jis4/service/ProductService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../level3_product/src/test/java/by/jrr/jis4/bean/ProductTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../level3_product/src/test/java/by/jrr/jis4/service/ProductServiceTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../resources/.initial" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../resources/log4j.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/by/jrr/jis4/bean/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/by/jrr/jis4/bean/Dog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/by/jrr/jis4/service/DogService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/by/jrr/jis4/service/DogService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/by/jrr/jis4/bean/DogTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/by/jrr/jis4/bean/DogTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -350,11 +178,24 @@
       <updated>1598223444073</updated>
       <workItem from="1598223445438" duration="5876000" />
       <workItem from="1598260621613" duration="3218000" />
+      <workItem from="1598826483261" duration="418000" />
     </task>
+    <task id="LOCAL-00001" summary="my task about dog">
+      <created>1598826693504</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1598826693504</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="my task about dog" />
+    <option name="LAST_COMMIT_MESSAGE" value="my task about dog" />
   </component>
   <component name="WindowStateProjectService">
     <state x="93" y="93" width="1350" height="638" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1598229139688">
